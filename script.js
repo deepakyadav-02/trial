@@ -14,5 +14,5 @@ document.getElementById("noBtn").addEventListener("mouseover", function () {
 });
 
 document.getElementById("noBtn").addEventListener("click", function () {
-  this.innerHTML = "click yes";
+  this.innerHTML = "dont";
 });
